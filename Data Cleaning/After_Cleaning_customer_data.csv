@@ -1,0 +1,8 @@
+Customer_ID,Name,Age,City,Spent_Amount,Join_Date
+101,Ahmed,25,Karachi,5000.0,2023-01-01
+102,Sara,30,Lahore,7000.0,2023-01-05
+103,Zain,22,Islamabad,7500.0,2023-01-10
+105,Fatima,28,Karachi,12000.0,2023-02-01
+106,Usman,35,Lahore,8500.0,2023-02-15
+107,Hamza,28,Peshawar,9000.0,2023-03-01
+108,0,29,Quetta,6000.0,2023-03-05

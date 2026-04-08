@@ -1,0 +1,9 @@
+,Patient_ID,Gender,Blood_Pressure,Glucose_Level,Outcome
+0,1,Male,120.0,85.0,0
+1,2,female,130.0,90.0,1
+2,3,M,400.0,110.0,0
+3,4,Female,115.0,80.0,0
+4,2,female,130.0,90.0,1
+5,6,Female,,95.0,1
+6,7,Male,125.0,,0
+7,8,F,121.0,105.0,1
