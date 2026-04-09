@@ -27,13 +27,14 @@ To ensure the dataset was cleaned effectively, I utilized visualization tools an
 
 ### **Outlier Detection Visualization**
 *This Boxplot was used to identify extreme values that lie outside the normal medical range.*
-![Outlier Detection Plot](<img width="802" height="634" alt="Screenshot 2026-04-09 131648" src="https://github.com/user-attachments/assets/ddc74b5c-fbb1-40be-a590-2f46ca7a4faa" />)
-
+![Outlier Detection Plot](Images/outlier_detect.png)
+![Remove Outlier Plot](Images/remove_outlier.png)
 
 ### **Data Statistical Summary**
 *A snapshot of the data distribution, counts, and types verified during the cleaning process.*
-![Data Statistical Summary](Screenshot%202026-04-09%20131648.png)
+![Before Cleaning Summary](Images/before_cleaning.png)
 
+![After Cleaning Summary](Images/after_cleaning.png)
 ---
 
 ## 📂 Files in this Folder
